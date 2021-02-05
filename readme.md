@@ -2,15 +2,15 @@
 
 Mah stylez.
 
-## Usage
+## Styles paths
 
-On Windows, clone to:
+On Windows:
 
 ```
 C:\Users\<username>\Documents\Max 8\Styles
 ```
 
-On Mac, clone to:
+On Mac:
 
 ```
 /Users/<username>/Documents/Max 8/Styles
