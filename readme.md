@@ -13,6 +13,6 @@ C:\Users\<username>\Documents\Max 8\Styles
 On Mac, clone to:
 
 ```
-???
+/Users/<username>/Documents/Max 8/Styles
 ```
 
