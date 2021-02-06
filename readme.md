@@ -16,3 +16,6 @@ On Mac:
 /Users/<username>/Documents/Max 8/Styles
 ```
 
+## References
+
+- cool: https://colorpalettes.net/color-palette-4288/
